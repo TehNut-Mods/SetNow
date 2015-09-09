@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "SetNow",
+    "name": "SetNow",
+    "description": "Simple mod to set your bed spawn at any time of day",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "http://tehnut.info/",
+    "updateUrl": "http://tehnut.info/jenkins/",
+    "authorList": [ "TehNut" ],
+    "credits": "PeppeJ for requesting",
+    "logoFile": "",
+    "screenshots": [ ]
+  }
+]

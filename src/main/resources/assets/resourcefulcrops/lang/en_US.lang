@@ -1,0 +1,3 @@
+# Chat
+chat.SetNow.set.success=Your spawn is now set.
+chat.SetNow.set.fail=You cannot do that right now.
